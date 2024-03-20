@@ -1,4 +1,4 @@
-Recommendation systems offer numerous benefits for businesses and users alike, contributing to improved satisfaction, revenue, and efficiency. This project is a movie recommender system which will recommend top-5 related movies. I took the dataset from Kaggle (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) which contains credits.csv and movies.csv file.
+Recommendation systems offer numerous benefits for businesses and users alike, contributing to improved satisfaction, revenue, and efficiency. This project is a movie recommender system which will recommend top 5 related movies. I took the dataset from Kaggle (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) which contains credits.csv and movies.csv file.
 I performed the following operations on the dataset:
 1. Data Preprocessing
 2. Feature Engineering
